@@ -1,2 +1,2 @@
-# R-snippets
-useful functions and snippets for R
+### R-snippets
+useful functions and snippets for R - use for your delight!
