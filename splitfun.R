@@ -41,7 +41,7 @@ splitfun <- function(x,n){
   }
 
   # last group
-  ix <- rws[-exec]
+  ix <- rws[-exc]
 
   grp[ix] <- n
 
